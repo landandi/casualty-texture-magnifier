@@ -6,6 +6,8 @@
 캐주얼티 스킨을 조립된 캐릭터로 보면서 편집하는 Windows용 뷰어입니다.  
 A Windows tool for previewing and editing assembled Casualty character skins.
 
+**[⬇ Windows 다운로드 / Download for Windows](https://github.com/landandi/casualty-texture-magnifier/raw/refs/heads/main/CasualtyTextureMagnifier-Windows.zip)**
+
 ## 한국어
 
 캐릭터 부위에 마우스를 올리면 **어떤 PNG를 수정해야 하는지** 바로 확인할 수 있어요. 부위를 선택해 클립 스튜디오 페인트나 Aseprite에서 편집용 복사본을 열고, 같은 PNG에 저장하면 조립 미리보기가 자동으로 갱신됩니다.
