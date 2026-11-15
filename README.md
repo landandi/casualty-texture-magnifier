@@ -1,4 +1,4 @@
-**[⬇ Windows 다운로드 / Download for Windows](https://github.com/landandi/casualty-texture-magnifier/raw/refs/heads/main/CasualtyTextureMagnifier-Windows.zip)**
+
 
 # Casualty Texture Magnifier
 
