@@ -1,4 +1,5 @@
-![test](./preview.gif) 
+<img width="500" height="400" alt="preview gif" src="https://github.com/user-attachments/assets/7a056442-af05-4b66-8380-e69ca291ee53" />
+
 # Casualty Texture Magnifier
 
 캐주얼티 스킨을 조립된 캐릭터로 보면서 편집하는 Windows용 뷰어입니다.  
