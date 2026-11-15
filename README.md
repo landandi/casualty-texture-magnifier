@@ -1,5 +1,3 @@
-![Uploading Honeycam 2026-11-15 16-28-57.gif…]()
-
 
 # Casualty Texture Magnifier
 
