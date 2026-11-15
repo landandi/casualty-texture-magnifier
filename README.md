@@ -1,4 +1,4 @@
-
+![](./preview.gif) 
 # Casualty Texture Magnifier
 
 캐주얼티 스킨을 조립된 캐릭터로 보면서 편집하는 Windows용 뷰어입니다.  
