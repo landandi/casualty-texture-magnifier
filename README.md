@@ -1,3 +1,4 @@
+<img width="922" height="732" alt="1" src="https://github.com/user-attachments/assets/12320a88-0cdd-4be6-927d-f3be9224b1c0" />
 <img width="500" height="400" alt="preview gif" src="https://github.com/user-attachments/assets/7a056442-af05-4b66-8380-e69ca291ee53" />
 
 # Casualty Texture Magnifier
